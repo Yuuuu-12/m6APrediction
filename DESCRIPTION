@@ -1,0 +1,15 @@
+Package: m6APrediction
+Title: Prediction of m6A Sites Using Random Forest
+Version: 1.0.0
+Authors@R: 
+    person("Jiayu", "Liu", , "jiayu9648@gmail.com", role = c("aut", "cre"))
+Description: A package that supports the prediction of m6A sites from input features using a random forest model.
+License: MIT + file LICENSE
+Depends: 
+    R (>= 3.5.0),
+    randomForest
+Imports: 
+    stats
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
