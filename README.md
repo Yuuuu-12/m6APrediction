@@ -15,11 +15,11 @@ You can install the development version of `m6APrediction` from GitHub using the
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 # Install using devtools
 # install.packages("devtools")
-devtools::install_github("your_username/m6APrediction")
+devtools::install_github("Yuuuu-12/m6APrediction")
 
 # Or install using remotes
 # install.packages("remotes")
-remotes::install_github("your_username/m6APrediction")
+remotes::install_github("Yuuuu-12/m6APrediction")
 ```
 
 ## Example
